@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This website uses Jekyll.
+_Personal Narrative and Statement_
