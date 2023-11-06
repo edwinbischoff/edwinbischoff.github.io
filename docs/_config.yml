@@ -21,11 +21,11 @@
 title: ePortfolio
 email: 149975089+edwinbischoff@users.noreply.github.com
 description: >- # this means to ignore newlines until "baseurl:"
-  John Doe - Aspiring Pharmacologist | Biochemistry Student ePortfolio
+  Thomas Edwin Bischoff - Aspiring Pharmacologist | Biochemistry Student ePortfolio
 Showcasing my journey as a Biochemistry undergraduate with a passion for pharmacology. Explore my research, projects, and academic achievements.
 baseurl: "/home" # the subpath of your site, e.g. /blog
 url: "https://edwinbischoff.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:
+#twitter_username:
 github_username: edwinbischoff
 
 # Build settings
