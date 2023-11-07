@@ -22,7 +22,7 @@ title: Thomas Edwin Bischoff
 email: 149975089+edwinbischoff@users.noreply.github.com
 description: Aspiring Pharmacologist | My Biochemistry Student ePortfolio. #Showcasing my journey as a Biochemistry undergraduate with a passion for pharmacology. Explore my research, projects, and academic achievements.
 #baseurl: "" # the subpath of your site, e.g. /blog #pretty sure this bugs themes out
-url: "https://edwinbischoff.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://edwinbischoff.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username:
 github_username: edwinbischoff
 
