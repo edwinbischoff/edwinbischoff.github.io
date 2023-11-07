@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Hi, I'm a Biochemist Student 
+title: Home 
 permalink: 
 ---
-Index Test
+Hi! I'm a Biochemistry student with high aspirations.
