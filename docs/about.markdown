@@ -11,6 +11,6 @@ Currently, as an undergraduate, I am learning the skills in my technical labs an
 
 My research areas of interest are in neuropharmacology, keenly behavioral neuropharmacology.
 
-Ultimately, I aspire to contribute my voice to scientific discussions and advance our understanding of therapeutical and medical treatments for global mental health disorders, particularly focusing on Major Depressive Disorder (MDD), Persistent Depressive Disorder (PDD), and Obsessive-Compulsive Disorder (OCD). My goal is to influence the development of innovative, novel treatments and improve the quality of life for individuals affected by these conditions.
+Ultimately, I aspire to contribute my voice to scientific discussions and advance our understanding of therapeutical and medical treatments for global mental health disorders, particularly focusing on Major Depressive Disorder (MDD), Persistent Depressive Disorder (PDD), Obsessive-Compulsive Disorder (OCD), and Post-traumatic stress disorder (PTSD). My goal is to influence the development of innovative, novel treatments and improve the quality of life for individuals affected by these conditions.
 
 Outside the academic world, I enjoy a good book with a view, exploring my creative side with poetry or photography, and learning French. *C’est chouette !*
