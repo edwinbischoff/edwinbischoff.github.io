@@ -5,12 +5,12 @@
 layout: home
 permalink: 
 ---
-Hi! I'm a Biochemistry student with high aspirations.
-test
 
-Aspiring biochemist with a curiosity for incorporating my values, strong work ethic, and goals into my career path. My academic intention is to earn a Ph.D. in the field of pharmacology.
+<h1 style="font-size: 24px;">Hello and Welcome!</h1>
+![photo_of_me](assets/images/selfie.jpeg){: style="width: 150px; height: auto; border-radius: 50%; float: right"}
+ 
+My name is **Thomas Bischoff**, and I'm an Undergraduate Biochemistry Student at the University of Central Florida.
 
-I graduated from high school with an Associate's Degree and am currently committed to earning a Bachelor's in Chemistry, focusing on Biochemistry, at the University of Central Florida. Then, I intend to further my education towards a Ph.D. in pharmacology.
+I am passionate and curious about incorporating my values, strong work ethic, and goals into my career path. My academic intention is to earn a Ph.D. in the field of pharmacology. My passion lies in studying psychoactive drugs, from the historical survey to the neurophysiology understanding.
 
-My background as a former engineering student has improved my critical thinking skills, which I am eager to apply to science.
-
+This website serves as my ePortfolio, encompassing who I am, my preparations, my aspirations, and my accomplishments. The [About Me](about/) page explores my background, journey, and in-depth goals. My detailed [CV](CV/) is also available for download, along with a dedicated page for my journey into [Research](Research/). Additionally, my [Volunteer Experience](volunteerexp/) showcases my contributions my communities. My contact information will always be listed at the bottom of each page.
