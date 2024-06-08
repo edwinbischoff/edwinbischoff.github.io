@@ -4,14 +4,16 @@ title: Research
 permalink: /research
 ---
 
-<!--### Introduction
-This will be an introduction to my research page going over some key details.-->
+<!--
+### Introduction
+Research
+-->
 
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8">
+  <meta>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>2x2 Layout</title>
+  <title>2x2</title>
   <style>
     .container {
       display: grid;
@@ -21,12 +23,12 @@ This will be an introduction to my research page going over some key details.-->
     .box {
       background-color: #f0f0f0;
       padding: 20px;
-      border-radius: 8px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      border-radius: 12px;
+      box-shadow: 0 6px 10px rgba(0, 0, 0, 0.1);
       transition: background-color 0.3s ease;
     }
     .box:hover {
-      background-color: rgb(213, 234, 253); /* Change to desired hover color */
+      background-color: rgb(213, 234, 253); /* hover color */
     }
   </style>
 </head>
@@ -40,6 +42,7 @@ This will be an introduction to my research page going over some key details.-->
         <li>Psychobiological Aspects of Drug Use</li>
         <li>Organic Chemistry & Lab Techniques</li>
         <li>Genetics</li>
+        <li>Calculus with Analytical Geometry I & II</li>
       </ul>
     </div>
     <div class="box">
@@ -53,16 +56,15 @@ This will be an introduction to my research page going over some key details.-->
       </ul>
     </div>
     <div class="box">
-      <h2>Research Interests</h2>
+      <h2>Current Research Interests</h2>
       <ul>
-        <!--<li>Psychopharmacology: The study of drugs and their effect on behavior.</li>
-        <li>Molecular Pharmacology: The application of biochemical and genetic analysis on the molecular mechanisms of drug-protein interaction.</li> -->
+        <li>Human biochemistry with a focus on protein-drug interactions.</li>
       </ul>
     </div>
     <div class="box">
       <h2>Future Research Goals</h2>
       <ul>
-        <!--<li>List goals here.</li> -->
+        <li>Publish research as an undergraduate as it relates to biochemistry.</li>
       </ul>
     </div>
   </div>
@@ -71,4 +73,4 @@ This will be an introduction to my research page going over some key details.-->
 </html>
 
 ### Contact Information
-If you have any research opportunities or would like collaborate please reach out to me via [email](mailto:th789984@ucf.edu).
+If you have any research opportunities or would like collaborate please reach out to me via my [academic email](mailto:th789984@ucf.edu).

@@ -3,14 +3,13 @@
 
 @import "{{ site.theme }}";
 
-/* experimental stuff ahead */
+/* move this to <style> in /research soon */
 
 .container {
   display: flex;
   flex-wrap: wrap;
 }
 
-/* this is the box used in /research */
 .box {
   width: 45%; /* Adjust as needed */
   min-width: 200px; /* Ensure a minimum width */
@@ -23,7 +22,6 @@
   transition: background-color 0.3s ease;
 }
 
-/* this is the hover css style used in /research */
 .box:hover {
   background-color: red; /* default value; can be changed in <style> */
 }
