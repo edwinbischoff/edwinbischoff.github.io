@@ -56,13 +56,13 @@ Research
       </ul>
     </div>
     <div class="box">
-      <h2>Current Research Interests</h2>
+      <h2>Current Interests</h2>
       <ul>
         <li>Human biochemistry with a focus on protein-drug interactions.</li>
       </ul>
     </div>
     <div class="box">
-      <h2>Future Research Goals</h2>
+      <h2>Future Goals</h2>
       <ul>
         <li>Publish research as an undergraduate as it relates to biochemistry.</li>
       </ul>
