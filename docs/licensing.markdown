@@ -11,5 +11,5 @@
 - Markdown Software is licensed under the terms of a BDS-style open source license. 
     - Disclaimer: Neither the name "Markdown" nor the names of its contributors endorse or promote this website.
     - [License Documentation](https://daringfireball.net/projects/markdown/license).
-- Modified and original content by the website author are licensed and subject to the terms under EPL-1.0. [License Documentation](https://github.com/edwinbischoff/edwinbischoff.github.io/blob/gh-pages/LICENSING.txt).
+- Modified and original content by the website author are licensed and subject to the terms under EPL-1.0. [License Documentation](https://github.com/edwinbischoff/edwinbischoff.github.io/blob/gh-pages/LICENSE.txt).
     - Such applicable content withholds the user to reproduce, distribute, or otherwise exploit the intellectual property of the author.
