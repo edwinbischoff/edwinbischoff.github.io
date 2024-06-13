@@ -1,5 +1,5 @@
 Edwin ePortfolio License (EPL) 
-Version 1.0
+Version 1.1
 
 Copyright (c) 2024-present Thomas Edwin Bischoff
 
@@ -24,29 +24,28 @@ means having the right to grant or withhold any and all of the grants or withhol
 means an individual or a legal entity exercising rights under this License. For legal entities, “You” includes any entity that controls, is controlled by, or is under common control with You. For purposes of this definition, “control” means (a) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (b) ownership of more than fifty percent (50%) of the outstanding shares or beneficial ownership of such entity.
 
 1. License Disclaimers
-1.1 Disclaimer
 This is a modified license of the Mozilla Public License 2.0. This version differs from the original MPL-2.0, and a copy of the MPL can be obtained at https://mozilla.org/MPL/2.0/. 
 For the avoidance of doubt, all terms and conditions of Mozilla Public License 2.0 do not apply to the Edwin ePortfolio License 1.0.
 
 2. License Withholding and Conditions
 2.1. WITHHOLDING RIGHTS
-THE AUTHOR HEREBY WITHHOLDS AND DENIES YOU (UNLESS EXEMPTED BY SECTION 2.7) UNDER INTELLECTUAL PROPERTY RIGHTS LICENSABLE BY THE AUTHOR:
+THE AUTHOR HEREBY WITHHOLDS AND DENIES YOU (UNLESS EXEMPTED BY SECTION 2.5) UNDER INTELLECTUAL PROPERTY RIGHTS LICENSABLE BY THE AUTHOR:
 	a	TO REPRODUCE, DISTRIBUTE, OR OTHERWISE EXPLOIT CONTRIBUTIONS ON A MODIFIED OR UNMODIFIED BASIS; AND
 	b	TO CREATE AND DISTRIBUTE A WORK THAT COMBINES UNMODIFIED OR MODIFIED COVERED SOFTWARE WITH OTHER MATERIAL.
 2.2. Effective Date
 The licensing withholdings in Section 2.1 concerning any Contribution become effective for each Contribution on the date the Author first distributes such Contribution. This distribution is synonymous with commits to the associated GitHub repository.
 2.3. Declaration of Originality
-The Author believes its Contributions are of their original creation and has sufficient rights to apply the conditions conveyed by this License.
+The Author believes their Contributions are of their original creation and has sufficient rights to apply the conditions conveyed by this License.
 2.4. Fair Use
 This License is not intended to limit any rights You have under applicable copyright doctrines of fair use, fair dealing, or other equivalents.
 2.5. Withholding Exception Condition
-You may distribute the unmodified Covered Software with expressed written permission by The Author, provided that You provide the name of The Author, the EPL-1.0 license, and a link to the original GitHub repository.
+You may distribute unmodified Covered Software only with expressed written permission by The Author, provided that You provide the name of The Author, the EPL-1.1 license, and a link to the original GitHub repository.
 
 3. Inability to Comply Due to Statute or Regulation
 If You can’t comply with any of the terms of this License concerning some or all of the Covered Software due to statute, judicial order, or regulation then You must: (a) comply with the terms of this License to the maximum extent possible; and (b) describe the limitations and the code they affect. Such description must be placed in a text file included with all distributions of the Covered Software under this License. Except to the extent prohibited by statute or regulation, such description must be sufficiently detailed for a recipient of ordinary skill to understand.
 
 4. Termination
-The Author has the authority to remove the grant of distribution given in Section 3.1 and subsequently can terminate any grants given under this License.
+The Author has the authority to terminate the grant of distribution given in Section 2.5, subsequently The Author can terminate any grants given under this License.
 
 5. Limitation of Liability
 Under no circumstances and under no legal theory, whether tort (including negligence), contract, or otherwise, shall The Author, or anyone who distributes Covered Software as permitted above, be liable to You for any direct, indirect, special, incidental, or consequential damages of any character including, without limitation, damages for lost profits, loss of goodwill, work stoppage, or any and all other commercial damages or losses, even if such party shall have been informed of the possibility of such damages. This limitation of liability shall not apply to liability for death or personal injury resulting from such party’s negligence to the extent applicable law prohibits such limitation. Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so this exclusion and limitation may not apply to You.
@@ -55,7 +54,7 @@ Under no circumstances and under no legal theory, whether tort (including neglig
 Any litigation relating to this License may be brought only in the courts of a jurisdiction where the defendant maintains its principal place of business and such litigation shall be governed by laws of that jurisdiction, without reference to its conflict-of-law provisions. Nothing in this Section shall prevent a party’s ability to bring cross-claims or counter-claims.
 
 7. Miscellaneous
-This License represents the complete agreement concerning the subject matter hereof. If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable. Any law or regulation that provides that a contract's language shall be construed against the drafter shall not be used to construe this License against the Author.
+This License represents the complete agreement concerning the subject matter hereof. If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable. Any law or regulation that provides that a contract's language shall be construed against the drafter shall not be used to construe this License against The Author.
 
 8. Versions of the License
 8.1. New Versions
@@ -64,9 +63,8 @@ The Author is the license steward. No one other than the license steward has the
 You may not create and use a modified version of this License.
 
 Exhibit A - Non-Covered Software
-
 This covers the appropriate copyright and permission notices of Non-Covered Software that must be required in all copies of associated documentation files according to their licensing. These unmodified files are NOT under copyright from The Author, are NOT subject to the EPL-1.0 license, and are provided “as is” (hereon referred to as “Software”). You are granted, not under the authority of The Author, to use these files via their respective licensing grants only.
-1. Jekyll Software is licensed under the MIT License. License: https://github.com/jekyll/jekyll/blob/master/LICENSE.
-2. Liquid Software is licensed under the MIT License. License: https://github.com/Shopify/liquid/blob/main/LICENSE.
+1. Jekyll Software is licensed under the MIT License. License: https://github.com/jekyll/jekyll/blob/master/LICENSE
+2. Liquid Software is licensed under the MIT License. License: https://github.com/Shopify/liquid/blob/main/LICENSE
 3. The Minima Jekyll Theme Software is licensed under the MIT License. License: https://github.com/jekyll/minima/blob/master/LICENSE.txt
-4. The Markdown Software is licensed under the terms of a BDS-style open-source license. Neither the name "Markdown" nor the names of its contributors endorse or promote this website. License: https://daringfireball.net/projects/markdown/license.
+4. The Markdown Software is licensed under the terms of a BDS-style open-source license. Neither the name "Markdown" nor the names of its contributors endorse or promote this website. License: https://daringfireball.net/projects/markdown/license
