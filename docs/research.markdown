@@ -9,6 +9,8 @@ permalink: /research
 Research
 -->
 
+I am currently hoping to involve myself in a wide range of interdisciplinary fields. Here is the relevant accomplishments I hope to soon apply to independent research.
+
 <html>
 <head>
   <meta>
@@ -40,8 +42,8 @@ Research
       <ul>
         <li>Neurobiology</li>
         <li>Psychobiological Aspects of Drug Use</li>
-        <li>Organic Chemistry & Lab Techniques</li>
-        <li>Genetics</li>
+        <li>Organic Chemistry I and II, with Lab Techniques</li>
+        <li>Genetics with Lab Techniques</li>
         <li>Calculus with Analytical Geometry I & II</li>
       </ul>
     </div>
