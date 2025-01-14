@@ -20,9 +20,9 @@
 
 title: Thomas Edwin Bischoff
 email: tbischoff@ucf.edu
-description: Aspiring Psychiatrist | My Biochemistry Student ePortfolio. #Showcasing my journey as a Biochemistry undergraduate with a passion for pharmacology. Explore my research, projects, and academic achievements.
+description: My Student ePortfolio.
 #baseurl: "" # the subpath of your site, e.g. /blog ... pretty sure this bugs the themes out too
-url: "https://edwinbischoff.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://edwinbischoff.github.io/" # the base hostname & protocol for your site, e.g. http://example.com ... will change once a domain is bought
 #twitter_username:
 github_username: edwinbischoff
 linkedin_username: thomas-e-bischoff

@@ -98,7 +98,7 @@ Below is my timeline of Volunteering Experiences, I hope to grow this list as I 
     <div class="date">Fall 2023</div>
     <div class="timeline-content">
       <h3>Volunteer UCF</h3>
-      <!--{{ ctwimage | markdownify }}--><p>Involved myself in student-run orginization dedicated to allowing students to get envolved in community research around the Orlando area. I engaged in many projects over the Semester including <i>Clean The World Sorting</i>, where I helped sort soap and other hygine products for recycling; assisted <i>Knights Pantry</i> with moving backlogs of items in storage; creating Holiday Cards for Children; helped <i>United Against Poverty</i> with food donation sorting; and gave water out for a hosted 5 and 2 mile race sponsored by <i>Advent Health</i>.</p>
+      <!--{{ ctwimage | markdownify }}--><p>Involved myself in student-run orginization dedicated to allowing students to get envolved in community research around the Orlando area. I engaged in many projects over the Semester including <i>Clean The World Sorting</i>, where I helped sort soap and other hygine products for recycling; assisted <i>Knights Pantry</i> with moving backlogs of items in storage; creating Holiday Cards for Children; helped <i>United Against Poverty</i> with food donation sorting; and gave water out for a hosted race sponsored by <i>Advent Health</i>.</p>
     </div>
     </div>
     </div>

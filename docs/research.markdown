@@ -9,7 +9,7 @@ permalink: /research
 Research
 -->
 
-I am currently hoping to involve myself in a wide range of interdisciplinary fields. Here is the relevant accomplishments I hope to soon apply to independent research.
+I am currently hoping to involve myself in a wide range of interdisciplinary fields. Here, I lay out the relevant accomplishments I have made towards becoming a researcher. I am currently involved in independent undergraduate research relating to the stigmitzation of psychedelic drugs; as such, I hope to soon share my research on this page, including my eventual publication.
 
 <html>
 <head>
@@ -60,13 +60,13 @@ I am currently hoping to involve myself in a wide range of interdisciplinary fie
     <div class="box">
       <h2>Current Interests</h2>
       <ul>
-        <li>Human biochemistry with a focus on protein-drug interactions.</li>
+        <li>Sociological points of view relating to stimga of translational medicine.</li>
       </ul>
     </div>
     <div class="box">
       <h2>Future Goals</h2>
       <ul>
-        <li>Publish research as an undergraduate as it relates to biochemistry.</li>
+        <li>Publish research as an undergraduate.</li>
       </ul>
     </div>
   </div>
