@@ -5,6 +5,7 @@ layout: home
 permalink: 
 ---
 
+<meta name="google-site-verification" content="Yr2D3HYw_CK1m3T1asfKWFVkoyDNEwxOmWj02DChmx0" />
 
 <h1 style="font-size: 24px;">Hello and Welcome!</h1>
 ![photo_of_me](assets/images/selfie.jpeg){: style="width: 200px; height: auto; border-radius: 50%; float: right"}
