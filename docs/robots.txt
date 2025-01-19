@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /assets/pdf/Bischoff_CV.pdf/
+Disallow: /licensing
+Disallow: /*.jpeg
+
+User-agent: AdsBot-Google
+Disallow: /
+
+User-agent: Googlebot
+Disallow: /assets/pdf/Bischoff_CV.pdf/
+Disallow: /licensing
+Disallow: /*.jpeg

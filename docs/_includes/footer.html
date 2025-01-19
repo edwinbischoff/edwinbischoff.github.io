@@ -14,21 +14,21 @@
             {%- endif -%}
             </li>
             {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li><p>(academic email)</p>
+            {%- endif -%}
+            {%- if site.email2 -%}
+            <li><a class="u-email" href="mailto:{{ site.email2 }}">{{ site.email2 }}</a></li><p>(personal email)</p>
             {%- endif -%}
         </ul>
       </div>
 
-      <div class="footer-col footer-col-2">
+      <div class="footer-col newfooter-col-2">
         {%- include social.html -%}
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
-        
         <small><small>
-            <p>Powered by Jekyll, Liquid, Minima, and Markdown. See <a href="/licensing">licensing</a>.
-            (c) T. E. Bischoff</a>.</p>
+            <p>&#169 T. E. Bischoff. Powered by GitHub Pages, Jekyll, Liquid, Minima, and Markdown.  See <a href="/licensing">licensing</a>.</p>
         </small></small>
         
       </div>

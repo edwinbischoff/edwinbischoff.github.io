@@ -1,11 +1,14 @@
 <html><h3>Licensing Information</h3><br></html> 
 
-I believe it's important to be transparent when using software; so, here, I’ve put together a simple overview of the licenses of the software and tools I used.
+I believe it's important to be transparent when using software; so, here, I’ve put together a simple overview of the software and tools I used.
 
 Also linked is my own custom made license based on the Mozilla Public License, it's been an exciting journey to put it together and learn more about the world of software licesning. 
 
 **This page holds no legal creditability, see licenses for full documentation.**
 
+- This website is hosted using GitHub Pages.
+    - [Further Information](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages).
+    - [Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
 - Jekyll Software is licensed under the MIT License. 
     - [License Documentation](https://github.com/jekyll/jekyll/blob/master/LICENSE).
 - Liquid Software is licensed under the MIT License. 
