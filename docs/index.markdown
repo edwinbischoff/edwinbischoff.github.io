@@ -7,12 +7,12 @@ permalink:
 
 
 <h1 style="font-size: 24px;">Hello and Welcome!</h1>
-![photo_of_me](assets/images/outside_shot.png){: style="width: 200px; height: auto; border-radius: 50%; float: right"}
+![photo_of_me](assets/images/outside_shot.png){: style="width: 205px; height: 250px; border-radius: 90%; float: right"}
  
-My name is **Thomas Edwin Bischoff**, I'm an Undergraduate Psychology Student (Specializing in Neuroscience) at the University of Central Florida. My academic intention is to further my education in graduate school. I hope to primarily research and involve myself with translational medicine in mental health disorders.
+I'm **Thomas**, a Psychology undergraduate with a concentration in Neuroscience at the University of Central Florida. Following graduation, my aim is to continue my studies in a graduate program aligning with my research interests: translational medicine in the treatment of mental health disorders.
 
-My passion lies in the behavioral neuropharmacology of humans, that is, the study of how medicine can affect the human mind, and because of that, changes in observed behavior. Additionally, the conjugtion of non-pharmacological interventions relating to psychotherapy are of upmost interst to me in the treatment of mental health disorders. Additionally, the sociology and origination of stigmas within novel mental health treatments, such as ketamine infusions or psilocybin therapy, is the current focus of my undergraduate research. I hope to bridge these ideas together during my graduate school program.
+I'm passionate about the behavioral neuropharmacology of people - the study of how medicine affects the human mind and observed behaviors. Aside from behavioral neuropharmacology, *non-pharmacological* in tandem with *pharmacological* approaches to psychotherapy for treating mental health disorders are the current focus of my undergraduate research; alongside the sociological origins of stigmas against novel mental health treatments like ketamine infusions and psilocybin therapy. I hope to develop these ideas further as part of my graduate studies.
 
-This website serves as a showcase of my passions as it relates to [my story](about), my [research](research), and [broader impact](broaderimpact). My [CV](cv) is also available for download as a concise expression of that. And my contact information will always be listed at the bottom of each page for those interested.
+This website serves as a showcase of my passions as it relates to my [research](research) and [broader impact](broaderimpact). My [CV](cv) is also available for viewing. Feel free to contact me using the info below.
 
 Thanks for visiting!
