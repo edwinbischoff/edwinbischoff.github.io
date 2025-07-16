@@ -1,3 +1,11 @@
+<head>
+    <script type="text/javascript">
+    function scrambleIt(b,a){
+    var c = ".com";
+    document.write('<a href="mailto:'+a+'@'+b+c+'">'+a+'@'+b+c+'</a>');
+    }
+    </script>
+</head>
 <footer class="site-footer h-card">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
@@ -9,16 +17,39 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li><p>(academic email)</p>
-            {%- endif -%}
-            {%- if site.email2 -%}
-            <li><a class="u-email" href="mailto:{{ site.email2 }}">{{ site.email2 }}</a></li><p>(personal email)</p>
-            {%- endif -%}
+              <noscript>In order to avoid bot spam to my email, please enable JavaScirpt to view my email addresses.<br> (<a href="https://www.enable-javascript.com" target="_blank" rel="noopener noreferrer">How do I enable javascript?</a>)</noscript>
+        <span id="email1"></span>
+        <span id="email2"></span>
+
+        <script>
+          function insertEncodedEmail(id, userChars, domainChars, label) {
+            const user = userChars.join('');
+            const domain = domainChars.join('');
+            const fullEmail = `${user}&#64;${domain}`;
+            const container = document.getElementById(id);
+            const a = document.createElement('a');
+            a.href = 'mailto:' + user.replace(/&#(\d+);/g, (_, c) => String.fromCharCode(c))
+                       + '@' + domain.replace(/&#(\d+);/g, (_, c) => String.fromCharCode(c));
+            a.innerHTML = fullEmail;
+            const labelSpan = document.createElement('span');
+            labelSpan.textContent = label;
+            container.appendChild(a);
+            container.appendChild(document.createElement('br'));
+            container.appendChild(labelSpan);
+            container.appendChild(document.createElement('br'));
+            container.appendChild(document.createElement('br'));
+          }
+          insertEncodedEmail("email1",
+            ['&#99;', '&#111;', '&#110;', '&#116;', '&#97;', '&#99;', '&#116;'],
+            ['&#116;', '&#104;', '&#111;', '&#109;', '&#97;', '&#115;', '&#98;', '&#105;', '&#115;', '&#99;', '&#104;', '&#111;', '&#102;', '&#102;', '&#46;', '&#109;', '&#101;'],
+            '(personal email)'
+          );
+          insertEncodedEmail("email2",
+            ['&#116;', '&#98;', '&#105;', '&#115;', '&#99;', '&#104;', '&#111;', '&#102;', '&#102;'],
+            ['&#117;', '&#99;', '&#102;', '&#46;', '&#101;', '&#100;', '&#117;'],
+            '(academic email)'
+          );
+        </script>
         </ul>
       </div>
 
