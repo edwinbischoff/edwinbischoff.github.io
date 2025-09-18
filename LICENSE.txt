@@ -1,11 +1,11 @@
 Edwin ePortfolio License (EPL) 
-Version 1.2
+Version 1.2.1
 
 Copyright (c) 2024-present Thomas Edwin Bischoff
 
 0. Definitions
 0.1. “The Author”
-means the individual that creates and contributes to creating, or owning, Covered Software. Namely, Thomas Edwin Bischoff.
+means the individual who creates and contributes to creating, or owns, Covered Software. Namely, Thomas Edwin Bischoff.
 0.2. “Covered Software”
 means any of the following:
 	a	any file in Source Code Form that results from an addition to, deletion from, or modification of the contents of Non-Covered Software to which The Author has been granted copyright in full via intellectual property; or
@@ -22,7 +22,7 @@ means having the right to grant or withhold any and all of the grants or withhol
 means an individual or a legal entity exercising rights under this License. For legal entities, “You” includes any entity that controls, is controlled by, or is under common control with You. For purposes of this definition, “control” means (a) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (b) ownership of more than fifty percent (50%) of the outstanding shares or beneficial ownership of such entity.
 
 1. License Disclaimers
-This is a modified license of the Mozilla Public License 2.0. This version differs from the original MPL-2.0, and a copy of the MPL that can be obtained at https://mozilla.org/MPL/2.0/. 
+This is a modified license of the Mozilla Public License 2.0. This version differs from the original MPL-2.0, and a copy of the MPL can be obtained at https://mozilla.org/MPL/2.0/. 
 For the avoidance of doubt, all terms and conditions of Mozilla Public License 2.0 do not apply to the Edwin ePortfolio License in any of its versions.
 
 2. License Withholding and Conditions
@@ -33,20 +33,20 @@ THE AUTHOR HEREBY WITHHOLDS AND DENIES YOU (UNLESS EXEMPTED BY SECTION 2.5) UNDE
 2.2. Effective Date
 The licensing withholdings in Section 2.1 concerning any Covered Software become effective on the date the Author first distributes such Covered Software. This distribution is synonymous with commits to the associated GitHub repository.
 2.3. Declaration of Originality
-The Author believes their Covered Software are of their original creation and has sufficient rights to apply the conditions conveyed by this License.
+The Author believes their Covered Software is of their original creation and has sufficient rights to apply the conditions conveyed by this License.
 2.4. Fair Use
 This License is not intended to limit any rights You have under applicable copyright doctrines of fair use, fair dealing, or other equivalents.
 2.5. Withholding Exception Condition
-You may distribute unmodified or modified Covered Software with expressed permission by The Author, provided that You (a) attach this License; and (b) include a text file with the following conditions: the name of The Author, a link to the original GitHub repository, express personal exemption under permission by The Author, and express what Covered Software has been modified. Failure to abide by these conditions will terminate Your granted exemption given.
+You may distribute unmodified or modified Covered Software with expressed permission by The Author, provided that You (a) attach this License; and (b) include a text file with the following conditions: the name of The Author, a link to the original GitHub repository, express personal exemption under permission by The Author, and express what Covered Software has been modified. Failure to abide by these conditions will terminate Your granted exemption.
 
 3. Inability to Comply Due to Statute or Regulation
-If You can’t comply with any of the terms of this License concerning some or all of the Covered Software due to statute, judicial order, or regulation then You must: (a) comply with the terms of this License to the maximum extent possible; and (b) describe the limitations and the code they affect. Such description must be placed in a text file included with all distributions of the Covered Software under this License. Except to the extent prohibited by statute or regulation, such description must be sufficiently detailed for a recipient of ordinary skill to understand.
+If You can’t comply with any of the terms of this License concerning some or all of the Covered Software due to statute, judicial order, or regulation, then You must: (a) comply with the terms of this License to the maximum extent possible; and (b) describe the limitations and the Covered Software they affect. Such description must be placed in a text file included with all distributions of the Covered Software under this License. Except to the extent prohibited by statute or regulation, such description must be sufficiently detailed for a recipient of ordinary skill to understand.
 
 4. Termination
-The Author has the authority to terminate the grant of distribution given in Section 2.5, subsequently The Author can terminate any grants given under this License.
+The Author has the authority to terminate the grant of distribution given in Section 2.5. Subsequently, The Author can terminate any grants given under this License.
 
 5. Litigation
-Any litigation relating to this License may be brought only in the courts of a jurisdiction where the defendant maintains its principal place of business and such litigation shall be governed by laws of that jurisdiction, without reference to its conflict-of-law provisions. Nothing in this Section shall prevent a party’s ability to bring cross-claims or counter-claims.
+Any litigation relating to this License may be brought only in the courts of a jurisdiction where the defendant maintains its principal place of business, and such litigation shall be governed by the laws of that jurisdiction, without reference to its conflict-of-law provisions. Nothing in this Section shall prevent a party’s ability to bring cross-claims or counter-claims.
 
 6. Miscellaneous
 This License represents the complete agreement concerning the subject matter hereof. If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable. Any law or regulation that provides that a contract's language shall be construed against the drafter shall not be used to construe this License against The Author.

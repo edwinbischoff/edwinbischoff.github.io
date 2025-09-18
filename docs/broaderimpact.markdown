@@ -36,7 +36,7 @@ Below is my timeline of Volunteering Experiences, I hope to grow this list as I 
 <!--                 ## Timeline Styling ##               -->
 <!-- ## ############################################## ## -->
 
-        .timeline { /* This creates the space to the left of our timeline-item where teh date and other content can be placed */
+        .timeline { /* This creates the space to the left of our timeline-item where the date and other content can be placed */
           position: relative;
         }
 
@@ -115,10 +115,29 @@ Below is my timeline of Volunteering Experiences, I hope to grow this list as I 
     </div>  <!--<hr>-->
     </div>
     
+    <!-- Childcare Provider -->
     
+    <div class="timeline">
+    <div class="timeline-item"> <hr>
+    <div class="date">2019</div>
+    <div class="timeline-content">
+    <h3>Childcare</h3>
+    {{ VARIABLE | markdownify }}<p>I provided non-certified behavioral & developmental support for a child with Oppositional Defiant Discorder. I supported simple, daily tasks with them while their main caretaker was away.</p>
+    </div>
+    </div>
+    </div>
+        
+    <!-- teacher -->  
     
-  
-        
-        
+    <div class="timeline">
+    <div class="timeline-item"> <hr>
+    <div class="date">2019</div>
+    <div class="timeline-content">
+    <h3>Volunteer Teacher</h3>
+    {{ VARIABLE | markdownify }}<p>Led pre-designed weekly lessons for children 4-8, supporting social-emotional development.</p>
+    </div>
+    </div>
+    </div>
+      
 </body>
 </html>
