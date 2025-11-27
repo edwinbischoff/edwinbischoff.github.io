@@ -8,7 +8,6 @@ Also linked is my own custom made license based on the Mozilla Public License, i
 
 - This website is hosted using GitHub Pages.
     - [Further Information](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages).
-    - [Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
 - Jekyll Software is licensed under the MIT License. 
     - [License Documentation](https://github.com/jekyll/jekyll/blob/master/LICENSE).
 - Liquid Software is licensed under the MIT License. 
